@@ -1,4 +1,4 @@
-jc2mp-party
+Party
 ===========
 
 A party script for the JC-MP mod
