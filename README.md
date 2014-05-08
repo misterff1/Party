@@ -1,5 +1,4 @@
 Party
 ===========
 
-A party script for the JC-MP mod
-Type /party ingame to spawn in the party. Type it again to get back to the normal world
+A passive script for Just Cause 2 Multiplayer. Type /party and you will enter the party world in which you spawn as a male stripper with nothing but bubbleguns. Type /party again and you will be restored to your old position in the defaultworld.
