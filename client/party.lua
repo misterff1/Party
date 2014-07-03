@@ -1,7 +1,4 @@
---[[
-    Party v0.1
-    Created by Misterff1
-]]
+-- Party V1.1 by Misterff1
 
 class 'Party'
 
